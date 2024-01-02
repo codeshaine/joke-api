@@ -127,7 +127,7 @@ http://localhost:3000/jokes/all?key=<refer-above>
 ```
 
 <div align="end">
-<a href="Joke_API">Go to up👆</a>
+<a href="#Joke_API">Go to up👆</a>
 </div>
 
 ## Thankyou for reading ..<3
